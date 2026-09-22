@@ -13,6 +13,9 @@ My daily Python learning scripts while building fundamentals for Data Analysis.
 - `hello.py` — first script
 - `calculator.py` — simple CLI calculator
 - `guessing_game.py` — number guessing game
+- `login_system.py` — signup & login system
+- `quiz_game.py` — Kon Banega Crorepati style quiz
+- `secret_language.py` — encode/decode messages
 
 ## Note
 These are learning exercises, not production projects. Goal: Data Analyst.
