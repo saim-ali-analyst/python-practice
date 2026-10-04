@@ -16,6 +16,8 @@ My daily Python learning scripts while building fundamentals for Data Analysis.
 - `login_system.py` — signup & login system
 - `quiz_game.py` — Kon Banega Crorepati style quiz
 - `secret_language.py` — encode/decode messages
+- `snake_water_gun.py` — Snake Water Gun game
+- `oops_practice.py` — all OOP concepts in one file
 
 ## Note
 These are learning exercises, not production projects. Goal: Data Analyst.
